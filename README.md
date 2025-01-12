@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Yassine_Sahli <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ✏️ Im a Cyber Security Engineer <b>[<a href="https://tryhackme.com/p/KaiiZen">Ranked #14 on Tryhackme in Tunisia of All Time</a>]
-- ⛑️ Im a Red Hat Certified Engineer [<a href="https://www.credly.com/badges/6d175e39-dfbc-4d36-a7d7-881176d9f649/public_url">RHCE</a>]
+- 🎓 Im a Cyber Security Engineer <b>[<a href="https://tryhackme.com/p/KaiiZen">Ranked #14 on Tryhackme in Tunisia of All Time</a>]
+- 🏆 Im a Red Hat Certified Engineer [<a href="https://www.credly.com/badges/6d175e39-dfbc-4d36-a7d7-881176d9f649/public_url">RHCE</a>]
 - ☢️ Im a Certified Junior Penetration Tester [<a href="https://certs.ine.com/174d9841-dd08-4f12-b778-b73c8f2d0569#gs.68lrri">eJPTv2</a>]
 - ⛑️ Im a Red Hat Certified System Administrator [<a href="https://www.credly.com/badges/5d0109bf-89c8-4809-9dc5-f3f92c0f3adb/public_url">RHCSA</a>]
-- 🧢 Im a Blue Team Junior Analyst [<a href="https://elearning.securityblue.team/home/certificate/298291759">BTJA</a>]
-- 🧢 Im a Certified Network Security Practitioner [<a href="https://drive.google.com/file/d/1YiQsyVDZFKUsEk--17l2yVBBAi5Kd8sX/view">CNSP</a>]
-- 🧢 Im Microsoft Certified Azure Ai Fundamentals [<a href="https://learn.microsoft.com/api/credentials/share/en-us/YassineSahli-4844/A7706242A8BE9161?sharingId=4B1E66408C187B9F">MS Ai-900</a>]
-- 🌱 15xCisco Credentials [<a href="https://www.credly.com/users/yassine-sahli/badges?sort=-state_updated_at&page=1">Credly Direct Link</a>]
+- 💯 Im a Blue Team Junior Analyst [<a href="https://elearning.securityblue.team/home/certificate/298291759">BTJA</a>]
+- 🔑 Im a Certified Network Security Practitioner [<a href="https://drive.google.com/file/d/1YiQsyVDZFKUsEk--17l2yVBBAi5Kd8sX/view">CNSP</a>]
+- 🧢 Im Microsoft Certified Azure Ai-900 Fundamentals [<a href="https://learn.microsoft.com/api/credentials/share/en-us/YassineSahli-4844/A7706242A8BE9161?sharingId=4B1E66408C187B9F">MS Ai-900</a>]
+- 👑 15xCisco Credentials [<a href="https://www.credly.com/users/yassine-sahli/badges?sort=-state_updated_at&page=1">Credly Direct Link</a>]
 - 🔭๋࣭ IBM Cybersecurity Analyst [<a href="https://www.coursera.org/account/accomplishments/specialization/certificate/NMXMTRAALPVQ">IBM Cybersecurity Analyst Certificate</a>]
 - 📫 Contact me on my LinkedIn Account
 
