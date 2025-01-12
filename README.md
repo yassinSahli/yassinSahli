@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yassine_Sahli
+- 👋 Hi, I’m @Yassine_Sahli <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ✏️ Im a Cyber Security Engineer <b>[<a href="https://tryhackme.com/p/KaiiZen">Ranked #14 on Tryhackme in Tunisia of All Time</a>]
 - ⛑️ Im a Red Hat Certified Engineer [<a href="https://www.credly.com/badges/6d175e39-dfbc-4d36-a7d7-881176d9f649/public_url">RHCE</a>]
 - ☢️ Im a Certified Junior Penetration Tester [<a href="https://certs.ine.com/174d9841-dd08-4f12-b778-b73c8f2d0569#gs.68lrri">eJPTv2</a>]
