@@ -8,7 +8,7 @@
 
 ### 🏆 Professional Certifications
 
-- 🧠 **INE Certified Enterprise Defender (eEDA)** — [Credly](https://www.credly.com/badges/5bb2a0ea-5773-4e9e-b937-5b743236634e/public_url)  
+- 🧠 **INE Certified Enterprise Defender (eEDA)** — [Credly](https://certs.ine.com/d896b547-ced5-40b6-91d5-8828d8245f28#acc.kBAiCsul)  
 - ⚔️ **INE Certified Incident Responder (eCIRv2)** — [INE](https://certs.ine.com/d896b547-ced5-40b6-91d5-8828d8245f28#acc.kBAiCsul)  
 - 💣 **CyberWarFare Certified Red Team Analyst (CRTA)** — [CyberWarFare Labs](https://labs.cyberwarfare.live/credential/achievement/68b5db623bd10918d103c904)  
 - ☢️ **Junior Penetration Tester (eJPTv2)** — [INE](https://certs.ine.com/174d9841-dd08-4f12-b778-b73c8f2d0569)  
@@ -20,38 +20,34 @@
 
 ---
 
-### 🧠 Featured Projects
 
-- 🧩 **Unified Threat Mitigation and Network Security Platform**  
-  _Enterprise-grade SOC platform integrating SIEM (Wazuh), SOAR (TheHive, Cortex, MISP), and automated patch management._  
-- 🧬 **SOC Incident Response Simulation: Sliver C2 Detection**  
-  _Detection and response automation for C2 payloads using LimaCharlie + YARA._  
-  [GitHub Repo](https://github.com/yassinSahli/SOC-Detection-and-Response-Project)  
-- 🏗️ **Designing and Deploying a Secure Multi-Campus Network**  
-  _Security architecture with penetration testing and advanced controls._  
-  [View Project](https://www.canva.com/design/DAFldJrv4o4/Lvx4J97aM7sEyXyaZmZ94g/view)
-
----
 
 <h3 align="left">🧰 Languages & Tools:</h3>
 
 <p align="left">
-<a href="https://www.redhat.com/en" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-<a href="https://www.ansible.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://splunk.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/splunk/splunk-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.apache.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://ubuntu.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.redhat.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="redhat" width="40" height="40"/> </a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ansible.svg" alt="ansible" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+<a href="https://www.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> </a>
+<a href="https://www.vmware.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" alt="vmware" width="40" height="40"/> </a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.elastic.co/elk-stack" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"/> </a>
+<a href="https://www.splunk.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="40" height="40"/> </a>
+<a href="https://www.fortinet.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Fortinet_logo.svg" alt="fortinet" width="40" height="40"/> </a>
+<a href="https://www.wazuh.com/" target="_blank" rel="noreferrer"> <img src="https://wazuh.com/uploads/2021/01/wazuh_logo.svg" alt="wazuh" width="40" height="40"/> </a>
+<a href="https://www.metabase.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/2730560?s=280&v=4" alt="metabase" width="40" height="40"/> </a>
 </p>
-
----
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinsahli&show_icons=true&locale=en&layout=compact" alt="yassinsahli" /></p>
 
