@@ -20,8 +20,6 @@
 
 ---
 
-
-
 <h3 align="left">🧰 Languages & Tools:</h3>
 
 <p align="left">
@@ -48,6 +46,8 @@
 <a href="https://www.wazuh.com/" target="_blank" rel="noreferrer"> <img src="https://wazuh.com/uploads/2021/01/wazuh_logo.svg" alt="wazuh" width="40" height="40"/> </a>
 <a href="https://www.metabase.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/2730560?s=280&v=4" alt="metabase" width="40" height="40"/> </a>
 </p>
+
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassinsahli&show_icons=true&locale=en&layout=compact" alt="yassinsahli" /></p>
 
