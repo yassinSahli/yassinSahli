@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Yassine_Sahli <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXE0dHlwZGdjbjFzbGJtNHE0eWdpdXY3aW5jb3c5dnQwMzNrNXk1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif" width="50">
 
 🎓 **System Security Engineer at SAGEMCOM**  
-🏴‍☠️ **Cybersecurity Engineer | Red Team & Blue Team Specialist**  
+🏴‍☠️ **Cybersecurity Engineer | Blue Team Specialist**  
 🔥 **Ranked #14 on TryHackMe in Tunisia (All Time)** — [Profile](https://tryhackme.com/p/KaiiZen)
 
 ---
