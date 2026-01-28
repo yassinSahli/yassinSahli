@@ -15,7 +15,7 @@
 - ☢️ **INE Junior Penetration Tester (eJPTv2)** — [INE](https://certs.ine.com/174d9841-dd08-4f12-b778-b73c8f2d0569)  
 - 🔒 **Red Hat Certified Engineer (RHCE)** — [Redhat](https://www.credly.com/badges/6d175e39-dfbc-4d36-a7d7-881176d9f649/public_url)  
 - 🧰 **Red Hat Certified System Administrator (RHCSA)** — [Redhat](https://www.credly.com/badges/5d0109bf-89c8-4809-9dc5-f3f92c0f3adb/public_url)  
-- 💯 **Microsoft Certified: Azure AI Fundamentals (AI-900)** — [Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/YassineSahli-4844/A7706242A8BE9161?sharingId=4B1E66408C187B9F)  
+- 💯 **Microsoft Certified: Azure AI Fundamentals (MS Ai-900)** — [Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/YassineSahli-4844/A7706242A8BE9161?sharingId=4B1E66408C187B9F)  
 - 👑 **15x Cisco Credentials** — [Credly Profile](https://www.credly.com/users/yassine-sahli/badges?sort=-state_updated_at&page=1)  
 - 🔭 **IBM Cybersecurity Analyst Certificate** — [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/NMXMTRAALPVQ)  
 
