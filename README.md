@@ -8,7 +8,7 @@
 
 ### 🏆 Professional Certifications
 
-- 🧬 **INE Certified Digital Forensics Professional (eCDFP)** — [INE]([https://ine.com](https://certs.ine.com/8b759271-4013-4b25-b603-eb5f7ace5440#acc.WRTd8rYc)  
+- 🧬 **INE Certified Digital Forensics Professional (eCDFP)** — [INE](https://certs.ine.com/8b759271-4013-4b25-b603-eb5f7ace5440#acc.WRTd8rYc)  
 - 🕵️ **INE Certified Threat Hunting Professional (eCTHP)** — [INE](https://certs.ine.com/ae80ab65-14fa-4b59-ab67-c3f015797e78#acc.dF0G1EYl)  
 - 🧠 **INE Certified Enterprise Defender (eEDA)** — [INE](https://certs.ine.com/f9a94cb3-bb34-4e97-9d1f-92b3d4276435#acc.3mgslKXH)  
 - ⚔️ **INE Certified Incident Responder (eCIR)** — [INE](https://certs.ine.com/d896b547-ced5-40b6-91d5-8828d8245f28#acc.kBAiCsul)  
