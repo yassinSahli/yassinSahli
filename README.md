@@ -1,80 +1,136 @@
-# 👋 Hi, I’m @Yassine_Sahli <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXE0dHlwZGdjbjFzbGJtNHE0eWdpdXY3aW5jb3c5dnQwMzNrNXk1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif" width="50">
+# 👋 Hi, I'm Yassine Sahli <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXE0dHlwZGdjbjFzbGJtNHE0eWdpdXY3aW5jb3c5dnQwMzNrNXk1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif" width="50">
 
-🎓 **System Security Engineer at SAGEMCOM**  
-🏴‍☠️ **Cybersecurity Engineer | Blue Team Specialist**  
-🔥 **Ranked #14 on TryHackMe in Tunisia (All Time -2024)** — [Profile](https://tryhackme.com/p/KaiiZen)
+## 🛡️ Infrastructure Security Engineer | Detection Engineering | Incident Response
+
+🎓 Security of Computer Systems & Networks Engineering Student
+🏢 Infrastructure Security Engineer @ SAGEMCOM
+🔵 Blue Team Specialist focused on Detection Engineering, SOC Operations & Infrastructure Hardening
+🔥 Ranked #14 on TryHackMe Tunisia Leaderboard (All-Time 2024) — [TryHackMe Profile](https://tryhackme.com/p/KaiiZen)
+
+---
+
+## 🚀 About Me
+
+Cybersecurity & Infrastructure Security Engineer passionate about building resilient, attack-ready, and automated enterprise environments.
+
+I specialize in:
+
+* 🛡️ Security Operations & Detection Engineering
+* ⚡ Incident Response & Threat Hunting
+* 🧠 Digital Forensics & Malware Analysis
+* 🔐 Linux Infrastructure Hardening & Patch Automation
+* ☁️ Secure Containerized & Air-Gapped Architectures
+* 📡 Network Security Engineering & Traffic Analysis
+* 🤖 Security Automation, SOAR & SIEM Engineering
+
+Currently working on large-scale infrastructure security projects involving:
+
+* Enterprise Linux patch orchestration with Ansible
+* SentinelOne EDR deployment & compliance operations
+* ISO 27001 security compliance initiatives
+* Air-gapped container security platforms
+* LDAPS authentication architectures
+* Detection engineering with Wazuh, LimaCharlie & YARA
+* SOC automation using TheHive, Cortex, MISP & n8n
+
+I enjoy combining the mindset of an attacker with the discipline of a defender to engineer secure-by-design systems.
 
 ---
 
-### 🏆 Professional Certifications
+# 🏆 Professional Certifications
 
-- 🕵️ **INE Certified Digital Forensics Professional (eCDFP)** — [Link](https://certs.ine.com/8b759271-4013-4b25-b603-eb5f7ace5440#acc.WRTd8rYc)  
-- 🛡️ **INE Certified Threat Hunting Professional (eCTHP)** — [Link](https://certs.ine.com/ae80ab65-14fa-4b59-ab67-c3f015797e78#acc.dF0G1EYl)
-- 🧱 **INE Certified Incident Responder (eCIR)** — [Link](https://certs.ine.com/d896b547-ced5-40b6-91d5-8828d8245f28#acc.kBAiCsul)
-- 🔐 **INE Certified Security Operations (eSOC)** — [Link](https://certs.ine.com/59e69eb9-4065-4409-9d11-2b5c880d1894#acc.CJq9GpUV)  
-- 🧠 **INE Certified Enterprise Defender (eEDA)** — [Link](https://certs.ine.com/f9a94cb3-bb34-4e97-9d1f-92b3d4276435#acc.3mgslKXH)  
-- 💣 **CyberWarFare Certified Red Team Analyst (CRTA)** — [Link](https://labs.cyberwarfare.live/credential/achievement/68b5db623bd10918d103c904)
-- ☢️ **THM Junior Penetration Tester (PT1)** — [Link](https://www.credly.com/badges/5bb2a0ea-5773-4e9e-b937-5b743236634e/public_url)  
-- 👾 **INE Junior Penetration Tester (eJPTv2)** — [Link](https://certs.ine.com/174d9841-dd08-4f12-b778-b73c8f2d0569)  
-- 🔒 **Red Hat Certified Engineer (RHCE)** — [Link](https://www.credly.com/badges/6d175e39-dfbc-4d36-a7d7-881176d9f649/public_url)  
-- 🧰 **Red Hat Certified System Administrator (RHCSA)** — [Link](https://www.credly.com/badges/5d0109bf-89c8-4809-9dc5-f3f92c0f3adb/public_url)  
-- 💯 **Microsoft Certified: Azure AI Fundamentals (MS Ai-900)** — [Link](https://learn.microsoft.com/api/credentials/share/en-us/YassineSahli-4844/A7706242A8BE9161?sharingId=4B1E66408C187B9F)  
-- 👑 **15x Cisco Credentials** — [Credly Profile](https://www.credly.com/users/yassine-sahli/badges?sort=-state_updated_at&page=1)  
-- 🔭 **IBM Cybersecurity Analyst Certificate** — [Link](https://www.coursera.org/account/accomplishments/specialization/certificate/NMXMTRAALPVQ)  
+* 🕵️ **INE Certified Digital Forensics Professional (eCDFP)** — [Credential](https://certs.ine.com/8b759271-4013-4b25-b603-eb5f7ace5440#acc.WRTd8rYc)
+* 🎯 **INE Certified Threat Hunting Professional (eCTHP)** — [Credential](https://certs.ine.com/ae80ab65-14fa-4b59-ab67-c3f015797e78#acc.dF0G1EYl)
+* 🚨 **INE Certified Incident Responder (eCIR)** — [Credential](https://certs.ine.com/d896b547-ced5-40b6-91d5-8828d8245f28#acc.kBAiCsul)
+* 🛡️ **INE Security Operations Certified (eSOC)** — [Credential](https://certs.ine.com/59e69eb9-4065-4409-9d11-2b5c880d1894#acc.CJq9GpUV)
+* 🧱 **INE Certified Enterprise Defender (eEDA)** — [Credential](https://certs.ine.com/f9a94cb3-bb34-4e97-9d1f-92b3d4276435#acc.3mgslKXH)
+* 👾 **INE eLearnSecurity Junior Penetration Tester (eJPTv2)** — [Credential](https://certs.ine.com/174d9841-dd08-4f12-b778-b73c8f2d0569)
+* 💣 **CyberWarFare Certified Red Team Analyst (CRTA)** — [Credential](https://labs.cyberwarfare.live/credential/achievement/68b5db623bd10918d103c904)
+* ☢️ **TryHackMe Junior Penetration Tester (PT1)** — [Credential](https://www.credly.com/badges/5bb2a0ea-5773-4e9e-b937-5b743236634e/public_url)
+* 🔴 **Red Hat Certified Engineer (RHCE)** — [Credential](https://www.credly.com/badges/6d175e39-dfbc-4d36-a7d7-881176d9f649/public_url)
+* 🔒 **Red Hat Certified System Administrator (RHCSA)** — [Credential](https://www.credly.com/badges/5d0109bf-89c8-4809-9dc5-f3f92c0f3adb/public_url)
+* ☁️ **Microsoft Certified: Azure AI Fundamentals (AI-900)** — [Credential](https://learn.microsoft.com/api/credentials/share/en-us/YassineSahli-4844/A7706242A8BE9161?sharingId=4B1E66408C187B9F)
+* 🌐 **15x Cisco Certifications** — [Credly Profile](https://www.credly.com/users/yassine-sahli/badges?sort=-state_updated_at&page=1)
+* 🔭 **IBM Cybersecurity Analyst Professional Certificate** — [Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/NMXMTRAALPVQ)
 
 ---
-<h3 align="left">🧰 Languages & Tools:</h3> 
-<p align="left"> 
-<a href="https://www.redhat.com/en" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" alt="RedHat" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" title="Podman" alt="Podman" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/splunk/splunk-original-wordmark.svg" title="Splunk" alt="Splunk" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp; 
-<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp; 
-</p> 
+
+# ⚙️ Security Projects & Labs
+
+## 🧠 Unified Threat Detection & Automated SOC Platform
+
+Designed and deployed an enterprise-grade SOC platform integrating:
+
+* Wazuh SIEM
+* Suricata NIDS
+* FortiGate NGFW
+* TheHive + Cortex + MISP
+* CheckMK Monitoring
+* OpenAudit CMDB
+* Ansible Patch Automation
+* n8n SOAR Workflows
+* GPT-assisted IOC enrichment pipelines
+
+🔍 Simulated full attack lifecycle detection, enrichment, correlation & automated response workflows inside a Proxmox VE environment.
+
+---
+
+## 🎯 Sliver C2 Detection Engineering Lab
+
+Engineered custom detection logic targeting Sliver C2 implants using:
+
+* LimaCharlie Detection Rules
+* YARA Signatures
+* Windows Process Telemetry
+* Behavioral IOC Correlation
+
+⚡ Achieved sub-60-second detection timing in controlled lab environments.
+
+---
+
+# 🧰 Technical Stack
+
+### 🔵 Security Operations & SIEM
+
+`Wazuh` `Splunk` `ELK Stack` `TheHive` `Cortex` `MISP` `SentinelOne`
+
+### 🌐 Network Security
+
+`FortiGate` `pfSense` `Suricata` `Zeek` `Snort` `Wireshark`
+
+### 🧠 DFIR & Threat Hunting
+
+`Autopsy` `Volatility` `FTK` `YARA` `Sysmon` `LimaCharlie`
+
+### ⚙️ Automation & Infrastructure
+
+`Ansible` `Docker` `Podman` `Linux` `Bash` `Python` `PowerShell`
+
+### ☁️ Cloud & DevSecOps
+
+`AWS` `GCP` `Harbor` `Cosign` `Trivy` `GitHub Actions`
+
+---
+
+# 📈 Current Focus
+
+* Detection Engineering
+* Threat Hunting
+* Linux Infrastructure Security
+* SOC Automation
+* Secure Enterprise Architecture
+* Air-Gapped Security Engineering
+* DFIR & Malware Analysis
+
+---
+
+# 🌍 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/yassine-s
+* 🌐 Portfolio: https://yassinesahli.vercel.app/
+* 🎯 TryHackMe: https://tryhackme.com/p/KaiiZen
+* 📧 Email: [yassine1sehli@gmail.com](mailto:yassine1sehli@gmail.com)
+
+---
+
+> “Always engineering. Always improving. Always securing.”
