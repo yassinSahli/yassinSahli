@@ -8,18 +8,19 @@
 
 ### 🏆 Professional Certifications
 
-- 🧬 **INE Certified Digital Forensics Professional (eCDFP)** — [INE](https://certs.ine.com/8b759271-4013-4b25-b603-eb5f7ace5440#acc.WRTd8rYc)  
-- 🕵️ **INE Certified Threat Hunting Professional (eCTHP)** — [INE](https://certs.ine.com/ae80ab65-14fa-4b59-ab67-c3f015797e78#acc.dF0G1EYl)  
-- 🧠 **INE Certified Enterprise Defender (eEDA)** — [INE](https://certs.ine.com/f9a94cb3-bb34-4e97-9d1f-92b3d4276435#acc.3mgslKXH)  
-- ⚔️ **INE Certified Incident Responder (eCIR)** — [INE](https://certs.ine.com/d896b547-ced5-40b6-91d5-8828d8245f28#acc.kBAiCsul)  
-- 💣 **CyberWarFare Certified Red Team Analyst (CRTA)** — [CyberWarFare Labs](https://labs.cyberwarfare.live/credential/achievement/68b5db623bd10918d103c904)
-- ☢️ **THM Junior Penetration Tester (PT1)** — [THM](https://www.credly.com/badges/5bb2a0ea-5773-4e9e-b937-5b743236634e/public_url)  
-- ☢️ **INE Junior Penetration Tester (eJPTv2)** — [INE](https://certs.ine.com/174d9841-dd08-4f12-b778-b73c8f2d0569)  
-- 🔒 **Red Hat Certified Engineer (RHCE)** — [Redhat](https://www.credly.com/badges/6d175e39-dfbc-4d36-a7d7-881176d9f649/public_url)  
-- 🧰 **Red Hat Certified System Administrator (RHCSA)** — [Redhat](https://www.credly.com/badges/5d0109bf-89c8-4809-9dc5-f3f92c0f3adb/public_url)  
-- 💯 **Microsoft Certified: Azure AI Fundamentals (MS Ai-900)** — [Microsoft](https://learn.microsoft.com/api/credentials/share/en-us/YassineSahli-4844/A7706242A8BE9161?sharingId=4B1E66408C187B9F)  
+- 🧬 **INE Certified Digital Forensics Professional (eCDFP)** — [Link](https://certs.ine.com/8b759271-4013-4b25-b603-eb5f7ace5440#acc.WRTd8rYc)  
+- 🕵️ **INE Certified Threat Hunting Professional (eCTHP)** — [Link](https://certs.ine.com/ae80ab65-14fa-4b59-ab67-c3f015797e78#acc.dF0G1EYl)
+- ⚔️ **INE Certified Incident Responder (eCIR)** — [Link](https://certs.ine.com/d896b547-ced5-40b6-91d5-8828d8245f28#acc.kBAiCsul)
+- ⚔️ **INE Certified Security Operations (eSOC)** — [Link](https://certs.ine.com/59e69eb9-4065-4409-9d11-2b5c880d1894#acc.CJq9GpUV)  
+- 🧠 **INE Certified Enterprise Defender (eEDA)** — [Link](https://certs.ine.com/f9a94cb3-bb34-4e97-9d1f-92b3d4276435#acc.3mgslKXH)  
+- 💣 **CyberWarFare Certified Red Team Analyst (CRTA)** — [Link](https://labs.cyberwarfare.live/credential/achievement/68b5db623bd10918d103c904)
+- ☢️ **THM Junior Penetration Tester (PT1)** — [Link](https://www.credly.com/badges/5bb2a0ea-5773-4e9e-b937-5b743236634e/public_url)  
+- ☢️ **INE Junior Penetration Tester (eJPTv2)** — [Link](https://certs.ine.com/174d9841-dd08-4f12-b778-b73c8f2d0569)  
+- 🔒 **Red Hat Certified Engineer (RHCE)** — [Link](https://www.credly.com/badges/6d175e39-dfbc-4d36-a7d7-881176d9f649/public_url)  
+- 🧰 **Red Hat Certified System Administrator (RHCSA)** — [Link](https://www.credly.com/badges/5d0109bf-89c8-4809-9dc5-f3f92c0f3adb/public_url)  
+- 💯 **Microsoft Certified: Azure AI Fundamentals (MS Ai-900)** — [Link](https://learn.microsoft.com/api/credentials/share/en-us/YassineSahli-4844/A7706242A8BE9161?sharingId=4B1E66408C187B9F)  
 - 👑 **15x Cisco Credentials** — [Credly Profile](https://www.credly.com/users/yassine-sahli/badges?sort=-state_updated_at&page=1)  
-- 🔭 **IBM Cybersecurity Analyst Certificate** — [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/NMXMTRAALPVQ)  
+- 🔭 **IBM Cybersecurity Analyst Certificate** — [Link](https://www.coursera.org/account/accomplishments/specialization/certificate/NMXMTRAALPVQ)  
 
 ---
 <h3 align="left">🧰 Languages & Tools:</h3> 
