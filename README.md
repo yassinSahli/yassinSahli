@@ -2,7 +2,7 @@
 
 🎓 **System Security Engineer at SAGEMCOM**  
 🏴‍☠️ **Cybersecurity Engineer | Blue Team Specialist**  
-🔥 **Ranked #14 on TryHackMe in Tunisia (All Time)** — [Profile](https://tryhackme.com/p/KaiiZen)
+🔥 **Ranked #14 on TryHackMe in Tunisia (All Time -2024)** — [Profile](https://tryhackme.com/p/KaiiZen)
 
 ---
 
