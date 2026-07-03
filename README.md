@@ -26,13 +26,12 @@ I specialize in:
 
 Currently working on large-scale infrastructure security projects involving:
 
-* Enterprise Linux patch orchestration with Ansible
-* SentinelOne EDR deployment & compliance operations
-* ISO 27001 security compliance initiatives
-* Air-gapped container security platforms
-* LDAPS authentication architectures
-* Detection engineering with Wazuh, LimaCharlie & YARA
-* SOC automation using TheHive, Cortex, MISP & n8n
+* Enterprise Linux patch orchestration with Ansible OS specific Roles.
+* SentinelOne EDR deployment & ISO27001 compliance operations.
+* Air-gapped container platforms Integration such as Harbor, Portainer, Cosign, Trivy Scanner (Aqua-DB).. 
+* Light-LDAP/LDAPS Authentication Architectures
+* Detection engineering with Wazuh, Splunk, ELK Stack, LimaCharlie and more..
+* SOC automation using TheHive, Cortex, MISP & Ansible playbooks and roles, n8n workflows and more..
 
 I enjoy combining the mindset of an attacker with the discipline of a defender to engineer secure-by-design systems.
 
