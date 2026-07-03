@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Yassine Sahli <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXE0dHlwZGdjbjFzbGJtNHE0eWdpdXY3aW5jb3c5dnQwMzNrNXk1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif" width="50">
 
 ## 🛡️ Security Engineer | Security Operations Engineer | Incident Responder | Threat Hunter
-
+---
 🎓 Security of Computer Systems & Networks Engineering Degree | Network Security Bachelor Degree
+---
 🔵 Blue Team Specialist focused on Detection Engineering, SOC Operations & Infrastructure Security Hardening
+---
 🔥 Ranked TOP #10 on TryHackMe Tunisia Leader board (All-Time 2024) — [TryHackMe Profile](https://tryhackme.com/p/KaiiZen)
 
 ---
