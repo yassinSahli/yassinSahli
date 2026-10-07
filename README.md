@@ -221,7 +221,7 @@ Achieved rapid detection of Sliver beaconing and post-exploitation activities in
 
 💼 LinkedIn: https://www.linkedin.com/in/yassine-s
 
-🌐 Portfolio: https://yassinesahli.vercel.app
+🌐 Portfolio: https://v0-yassine-sehli.vercel.app
 
 🎯 TryHackMe: https://tryhackme.com/p/KaiiZen
 
