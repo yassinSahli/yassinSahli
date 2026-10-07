@@ -1,136 +1,232 @@
-# 👋 Hi, Yassine SAHLI Here <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXE0dHlwZGdjbjFzbGJtNHE0eWdpdXY3aW5jb3c5dnQwMzNrNXk1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif" width="50">
+# 👋 Hi, I'm Yassine SAHLI
 
-🛡️ System Security Engineer | SOC Engineer | Incident Responder  
+🛡️ Cybersecurity & Infrastructure Security Engineer
 
- 🎓 Security of Computer Systems & Networks Engineering Degree | Network Security Bachelor Degree
+🔵 Blue Team Specialist | Linux Infrastructure Engineer | Detection Engineer
 
- 🔵 Blue Team Specialist focused on Detection Engineering, SOC Operations & Infrastructure Security Hardening
+🎓 Engineering Degree in Security of Computer Systems & Networks
+🎓 Bachelor's Degree in Network Security
 
- 🔥 Ranked TOP #10 on TryHackMe Tunisia Leader board (All-Time 2024) — [TryHackMe Profile](https://tryhackme.com/p/KaiiZen)
+🏆 Top 10 TryHackMe Tunisia Leaderboard (2024)
+🎯 RHCE | RHCSA | eJPTv2 | CRTA | eCDFP | eCTHP | eCIR | eSOC
 
 ---
 
 ## 🚀 About Me
 
-Cybersecurity & Infrastructure Security Engineer passionate about building resilient, attack-ready, and automated enterprise environments.
+Cybersecurity and Infrastructure Security Engineer passionate about securing large-scale enterprise environments through automation, hardening, monitoring, and detection engineering.
 
-I specialize in:
+My experience spans both Security Operations and Systems Engineering, allowing me to bridge infrastructure reliability with modern defensive security practices.
 
-* 🛡️ Security Operations & Detection Engineering
-* ⚡ Incident Response & Threat Hunting
-* 🧠 Digital Forensics & Malware Analysis
-* 🔐 Linux Infrastructure Hardening & Patch Automation
-* ☁️ Secure Containerized & Air-Gapped Architectures
-* 📡 Network Security Engineering & Traffic Analysis
-* 🤖 Security Automation, SOAR & SIEM Engineering
+### Core Areas of Expertise
 
-Currently working on large-scale infrastructure security projects involving:
-
-* Enterprise Linux patch orchestration with Ansible OS specific Roles.
-* SentinelOne EDR deployment & ISO27001 compliance operations.
-* Air-gapped container platforms Integration such as Harbor, Portainer, Cosign, Trivy Scanner (Aqua-DB).. 
-* Light-LDAP/LDAPS Authentication Architectures
-* Detection engineering with Wazuh, Splunk, ELK Stack, LimaCharlie and more..
-* SOC automation using TheHive, Cortex, MISP & Ansible playbooks and roles, n8n workflows and more..
-
-I enjoy combining the mindset of an attacker with the discipline of a defender to engineer secure-by-design systems.
+* 🛡️ Security Operations Center (SOC)
+* 🔍 Detection Engineering & Threat Hunting
+* 🚨 Incident Response & Digital Forensics
+* 🐧 Linux Systems Engineering (Debian / RHEL)
+* ⚙️ Infrastructure Automation & Configuration Management
+* 🔐 Enterprise Security Hardening
+* 📡 Network Security Engineering
+* ☁️ Container & Platform Security
+* 🤖 Security Automation & SOAR
 
 ---
 
-# 🏆 Professional Certifications
+## 💼 Current Professional Focus
 
-* 🕵️ **INE Certified Digital Forensics Professional (eCDFP)** — [Credential](https://certs.ine.com/8b759271-4013-4b25-b603-eb5f7ace5440#acc.WRTd8rYc)
-* 🎯 **INE Certified Threat Hunting Professional (eCTHP)** — [Credential](https://certs.ine.com/ae80ab65-14fa-4b59-ab67-c3f015797e78#acc.dF0G1EYl)
-* 🚨 **INE Certified Incident Responder (eCIR)** — [Credential](https://certs.ine.com/d896b547-ced5-40b6-91d5-8828d8245f28#acc.kBAiCsul)
-* 🛡️ **INE Security Operations Certified (eSOC)** — [Credential](https://certs.ine.com/59e69eb9-4065-4409-9d11-2b5c880d1894#acc.CJq9GpUV)
-* 🧱 **INE Certified Enterprise Defender (eEDA)** — [Credential](https://certs.ine.com/f9a94cb3-bb34-4e97-9d1f-92b3d4276435#acc.3mgslKXH)
-* 👾 **INE eLearnSecurity Junior Penetration Tester (eJPTv2)** — [Credential](https://certs.ine.com/174d9841-dd08-4f12-b778-b73c8f2d0569)
-* 💣 **CyberWarFare Certified Red Team Analyst (CRTA)** — [Credential](https://labs.cyberwarfare.live/credential/achievement/68b5db623bd10918d103c904)
-* ☢️ **TryHackMe Junior Penetration Tester (PT1)** — [Credential](https://www.credly.com/badges/5bb2a0ea-5773-4e9e-b937-5b743236634e/public_url)
-* 🔴 **Red Hat Certified Engineer (RHCE)** — [Credential](https://www.credly.com/badges/6d175e39-dfbc-4d36-a7d7-881176d9f649/public_url)
-* 🔒 **Red Hat Certified System Administrator (RHCSA)** — [Credential](https://www.credly.com/badges/5d0109bf-89c8-4809-9dc5-f3f92c0f3adb/public_url)
-* ☁️ **Microsoft Certified: Azure AI Fundamentals (AI-900)** — [Credential](https://learn.microsoft.com/api/credentials/share/en-us/YassineSahli-4844/A7706242A8BE9161?sharingId=4B1E66408C187B9F)
-* 🌐 **15x Cisco Certifications** — [Credly Profile](https://www.credly.com/users/yassine-sahli/badges?sort=-state_updated_at&page=1)
-* 🔭 **IBM Cybersecurity Analyst Professional Certificate** — [Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/NMXMTRAALPVQ)
+Currently involved in enterprise-scale infrastructure modernization and security initiatives including:
+
+* Debian 11/12 → Debian 13 migration programs
+* Enterprise Linux patch orchestration using Ansible
+* PostgreSQL, Docker, SonarQube and business-critical service migrations
+* SentinelOne deployment and operational security management
+* ISO 27001 aligned security operations
+* LDAP / LDAPS authentication architecture design
+* Air-gapped security platforms and repository management
+* Secure container ecosystems using Harbor, Trivy, Cosign and Portainer
+* Infrastructure monitoring and observability solutions
+* Security automation using Ansible, n8n, Cortex and TheHive
 
 ---
 
-# ⚙️ Security Projects & Labs
+## 🔬 Research & Innovation
 
-## 🧠 Unified Threat Detection & Automated SOC Platform
+### AI-Powered Intrusion Detection
 
-Designed and deployed an enterprise-grade SOC platform integrating:
+Currently developing a Machine Learning project focused on:
+
+* Network Intrusion Detection & Prediction
+* CICIDS2017 Dataset Analysis
+* Traffic Classification
+* Threat Detection Optimization
+* Security-focused Artificial Intelligence
+
+---
+
+## 🏗️ Featured Projects
+
+### Unified SOC & Detection Engineering Platform
+
+Enterprise-grade lab integrating:
 
 * Wazuh SIEM
-* Suricata NIDS
-* FortiGate NGFW
-* TheHive + Cortex + MISP
-* CheckMK Monitoring
-* OpenAudit CMDB
-* Ansible Patch Automation
-* n8n SOAR Workflows
-* GPT-assisted IOC enrichment pipelines
+* Suricata IDS
+* TheHive
+* Cortex
+* MISP
+* FortiGate
+* CheckMK
+* OpenAudit
+* Ansible Automation
+* n8n SOAR
 
-🔍 Simulated full attack lifecycle detection, enrichment, correlation & automated response workflows inside a Proxmox VE environment.
+Features:
 
----
-
-## 🎯 Sliver C2 Detection Engineering Lab
-
-Engineered custom detection logic targeting Sliver C2 implants using:
-
-* LimaCharlie Detection Rules
-* YARA Signatures
-* Windows Process Telemetry
-* Behavioral IOC Correlation
-
-⚡ Achieved sub-60-second detection timing in controlled lab environments.
+* Threat Detection
+* IOC Enrichment
+* Automated Incident Response
+* Security Case Management
+* Asset Visibility
+* Compliance Monitoring
 
 ---
 
-# 🧰 Technical Stack
+### Enterprise Linux Automation Framework
 
-### 🔵 Security Operations & SIEM
+Designed OS lifecycle management processes including:
 
-`Wazuh` `Splunk` `ELK Stack` `TheHive` `Cortex` `MISP` `SentinelOne`
+* Patch Automation
+* Security Baselines
+* Compliance Verification
+* Service Validation
+* Automated Reporting
+* Large-scale Debian Migration Support
+
+Technologies:
+
+`Ansible`
+`Bash`
+`Python`
+`Linux`
+`PostgreSQL`
+
+---
+
+### Sliver C2 Detection Engineering Lab
+
+Developed custom detections leveraging:
+
+* LimaCharlie
+* Sysmon
+* YARA
+* Windows Telemetry
+* Behavioral Analytics
+
+Achieved rapid detection of Sliver beaconing and post-exploitation activities in controlled environments.
+
+---
+
+## 🧰 Technical Stack
+
+### 🛡️ Security Operations
+
+`Wazuh`
+`Splunk`
+`ELK`
+`TheHive`
+`Cortex`
+`MISP`
+`LimaCharlie`
+`SentinelOne`
+
+### 🐧 Linux & Infrastructure
+
+`Debian`
+`Red Hat Enterprise Linux`
+`Rocky Linux`
+`Systemd`
+`PostgreSQL`
+`Docker`
+`Podman`
+`Apache`
+`Nginx`
+
+### ⚙️ Automation
+
+`Ansible`
+`Python`
+`Bash`
+`PowerShell`
+`n8n`
 
 ### 🌐 Network Security
 
-`FortiGate` `pfSense` `Suricata` `Zeek` `Snort` `Wireshark`
+`FortiGate`
+`pfSense`
+`Suricata`
+`Zeek`
+`Snort`
+`Wireshark`
 
-### 🧠 DFIR & Threat Hunting
+### 🔎 DFIR & Threat Hunting
 
-`Autopsy` `Volatility` `FTK` `YARA` `Sysmon` `LimaCharlie`
+`Autopsy`
+`Volatility`
+`YARA`
+`Sysmon`
+`FTK`
 
-### ⚙️ Automation & Infrastructure
+### ☁️ Cloud & Container Security
 
-`Ansible` `Docker` `Podman` `Linux` `Bash` `Python` `PowerShell`
-
-### ☁️ Cloud & DevSecOps
-
-`AWS` `GCP` `Harbor` `Cosign` `Trivy` `GitHub Actions`
+`AWS`
+`Azure`
+`Harbor`
+`Trivy`
+`Cosign`
+`GitHub Actions`
 
 ---
 
-# 📈 Current Focus
+## 📈 Current Roadmap
 
 * Detection Engineering
-* Threat Hunting
 * Linux Infrastructure Security
-* SOC Automation
-* Secure Enterprise Architecture
-* Air-Gapped Security Engineering
-* DFIR & Malware Analysis
+* Purple Team Operations
+* Enterprise Automation
+* AI for Cybersecurity
+* SOC Modernization
+* Air-Gapped Security Architectures
+* Threat Hunting & DFIR
 
 ---
 
-# 🌍 Connect With Me
+## 🏅 Certifications Highlights
 
-* 💼 LinkedIn: https://www.linkedin.com/in/yassine-s
-* 🌐 Portfolio: https://yassinesahli.vercel.app/
-* 🎯 TryHackMe: https://tryhackme.com/p/KaiiZen
-* 📧 Email: [yassine1sehli@gmail.com](mailto:yassine1sehli@gmail.com)
+* RHCE
+* RHCSA
+* eJPTv2
+* CRTA
+* eCDFP
+* eCTHP
+* eCIR
+* eSOC
+* eEDA
+* AI-900
+* IBM Cybersecurity Analyst
+* 15+ Cisco Certifications
 
 ---
 
-> “Always engineering. Always improving. Always securing.”
+## 🌍 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/yassine-s
+
+🌐 Portfolio: https://yassinesahli.vercel.app
+
+🎯 TryHackMe: https://tryhackme.com/p/KaiiZen
+
+📧 Email: yassine1sehli@gmail.com
+
+---
+
+> "Secure. Automate. Detect. Improve."
